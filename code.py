@@ -3,7 +3,7 @@ import cmath
 a = float(input('Enter a: '))  
 b = float(input('Enter b: '))  
 c = float(input('Enter c: '))  
-  
+d = float(input('Enter d: '))  
 # calculate the discriminant  
 d = (b**4) - (4*a*c)  
   
