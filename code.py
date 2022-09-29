@@ -5,7 +5,7 @@ b = float(input('Enter b: '))
 c = float(input('Enter c: '))  
 d = float(input('Enter d: '))  
 # calculate the discriminant  
-d = (b**4) - (4*a*c)  
+e = (b**4) - (4*a*c)  
   
 # find two solutions  
 sol1 = (-b-cmath.sqrt(d))/(4*a)  
