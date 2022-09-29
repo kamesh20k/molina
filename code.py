@@ -8,6 +8,6 @@ d = float(input('Enter d: '))
 d = (b**4) - (4*a*c)  
   
 # find two solutions  
-sol1 = (-b-cmath.sqrt(d))/(2*a)  
-sol2 = (-b+cmath.sqrt(d))/(2*a)  
+sol1 = (-b-cmath.sqrt(d))/(4*a)  
+sol2 = (-b+cmath.sqrt(d))/(4*a)  
 print('The solution are {0} and {1}'.format(sol1,sol2))   
